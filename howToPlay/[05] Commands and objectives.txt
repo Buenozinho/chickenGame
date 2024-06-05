@@ -1,0 +1,28 @@
+O objetivo do jogo e pegar a galinha Bessy que fugiu e esta perdida na floresta e levar ao galinheiro.
+Ha cinco locais do jogo: Patio, Lagoa, Casa, Floresta, e o Galinheiro.
+
+Para conseguir isso, primeiro voce precisa: 
+Tomar banho na lagoa -> pegar a rede que esta na casa -> pegar Bessy que esta na floresta -> levar ao galinheiro.
+
+Voce comeca no patio.
+Voce nao pode ir para qualquer local sem antes estar no patio.
+
+Itens do jogo: banho, rede, bessy.
+Locais do jogo: patio, lagoa, casa, floresta, galinheiro.
+
+Comandos:
+rodar.           //Para rodar e comecar o jogo.
+ir_para(local).  //Para ir para um local disponivel.
+pegar(item).     //Para pegar algum dos itens disponiveis.
+duda_possui(X).  //Para ver o que duda possui de item no momento.
+local_duda(X).   //Para saber onde duda esta.
+acessivel(X,Y).  //Determina se e possivel se mover de um lugar para outro.
+
+============================================================================
+(ainda escrevendo)
+Final alternativo do jogo.
+
+Para zerar pelo final alternativo do jogo, voce precisa...
+
+Itens do jogo: banho, rede, bessy, farofa.
+Locais do jogo: patio, lagoa, casa, floresta, galinheiro, terreiro_de_macumba.
